@@ -7,9 +7,9 @@
 
 ## Sprints:
 ## Sprint #1:
-# - Gathered information on the project.
-# Source/Client Code: https://github.com/williamsaunders/BU_grad_trios
+- Gathered information on the project.
+- Source/Client Code: https://github.com/williamsaunders/BU_grad_trios
 
 ## Sprint #2:
-# - Google Script Code for the Google Form: Do research into google form scripts, do research into databases
-# - Twilio API Setup for Chat: Get CSV from the Google Form, send a opt in and opt out message for users, update the list of participants attending
+- Google Script Code for the Google Form: Do research into google form scripts, do research into databases
+- Twilio API Setup for Chat: Get CSV from the Google Form, send a opt in and opt out message for users, update the list of participants attending
