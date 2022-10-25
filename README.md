@@ -13,3 +13,5 @@ The goal is to roll out a bare bones version of this project for the Fall of 202
 ## Sprint #2:
 - Google Script Code for the Google Form: Do research into google form scripts, do research into databases
 - Twilio API Setup for Chat: Get CSV from the Google Form, send a opt in and opt out message for users, update the list of participants attending
+- Initial Sign Up Form Excel: https://docs.google.com/spreadsheets/d/15JCMdNagbJrnLFoqCAn9JBI9ka8dsbOj4i_5o02NuJ8/edit?usp=sharing
+- Initial Sign Up Form Google Form: https://docs.google.com/spreadsheets/d/15JCMdNagbJrnLFoqCAn9JBI9ka8dsbOj4i_5o02NuJ8/edit?usp=sharing
